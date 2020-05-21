@@ -1,0 +1,64 @@
+.text {
+    color: orange;
+    font-size: 50px;
+    position: relative;
+    left: 50px;
+}
+
+.textbox {
+    font-size: 30px;
+    position: relative;
+    left: 50px;
+}
+
+header {
+    position: fixed;
+    background-color: white;
+}
+
+.head-inner {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    display: flex;
+    width: 1920px;
+    align-items: baseline;
+}
+
+.header-logoImg {
+    position: relative;
+    left: 850px;
+    width: 50px;
+}
+
+.main-logo {
+    text-align: center;
+    width: 1920px;
+    padding-top: 200px;
+}
+
+.memo2 {
+    color: orange;
+    font-size: 50px;
+}
+
+.text {
+    color: orange;
+    font-size: 50px;
+    position: relative;
+    left: 50px;
+}
+
+footer {
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer-logo {
+    text-align: center;
+    width: 1920px;
+    margin: 0 auto;
+}
